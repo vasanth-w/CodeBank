@@ -1,0 +1,8 @@
+#define ADD(X) (X=X+X)
+#define pi 3.14
+#include<stdio.h>
+void main(){
+int a=10;
+b=pi;
+ADD(a);
+}
