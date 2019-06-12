@@ -1,0 +1,6 @@
+-	id	+	*	(	)	$
+E	E ~ T E'	-	-	E ~ T E'	-	-
+E'	-	E' ~ + T E'	-	-	E' ~ e	E' ~ e
+T	T ~ F T'	-	-	T ~ F T'	-	-
+T'	-	T' ~ e	T' ~ * F T'	-	T' ~ e	T' ~ e
+F	F ~ id	-	-	F ~ ( E ) 	-	-	

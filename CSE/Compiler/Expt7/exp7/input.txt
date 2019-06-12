@@ -1,0 +1,6 @@
+- id + * ( ) $
+E E->TE' null null E->TE' null null
+E' null E'->+TE' null null E'->LAM E'->LAM
+T T->FT' null null T->FT' null null
+T' null T'->LAM T'->*FT' null T'->LAM T'->LAM
+F F->id null null F->(E) null null
